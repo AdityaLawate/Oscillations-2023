@@ -62,7 +62,7 @@ a:visited {
 
 a:hover,
 a:focus {
-	color: #3b73c7;
+	color: #f58442;
 }
 
 /* Typography
@@ -363,7 +363,7 @@ img.pull-left {
 	display: block;
 	width: 115px;
 	height: 6px;
-	background: #30839F;
+	background: #f58442;
 	padding-left: 20px;
 	text-align: center;
 	border-radius: 10px;
@@ -403,7 +403,7 @@ img.pull-left {
 	height: 50px;
 	margin-left: -25px;
 	margin-top: -25px;
-	background-color: #30839F;
+	background-color: #f58442;
 	-webkit-animation: sk-rotateplane 1.2s infinite ease-in-out;
 	animation: sk-rotateplane 1.2s infinite ease-in-out;
 }
@@ -509,7 +509,7 @@ input[type="button"] {
 	font: 16px/30px "raleway-heavy", sans-serif;
 	padding: 9px 16px;
 	margin: 0 3px 6px 0;
-	background: #30839F;
+	background: #f58442;
 	color: #fffdfd;
 	text-decoration: none;
 	cursor: pointer;
@@ -532,7 +532,7 @@ input[type="submit"]:hover,
 input[type="reset"]:hover,
 input[type="button"]:hover {
 	color: #FFFFFF;
-	background: #30839F;
+	background: #f58442;
 }
 
 label,
@@ -599,7 +599,7 @@ hr {
 }
 
 .section-head h1 span {
-	color: #30839F;
+	color: #f58442;
 	position: relative;
 	left: 3px;
 }
@@ -610,7 +610,7 @@ hr {
 }
 
 .section-head:hover h1+hr {
-	border-color: #30839F;
+	border-color: #f58442;
 	width: 120px;
 	text-align: left;
 }
@@ -676,7 +676,7 @@ header.opaque {
 /* header logo */
 header .logo {
 
-	background: #30839F;
+	background: #f58442;
 	float: left;
 	width: auto;
 	/* margin-left: 15px; */
@@ -726,7 +726,7 @@ header .header-social li a {
 }
 
 header .header-social li a:hover {
-	color: #30839F;
+	color: #f58442;
 }
 
 /* media queries:
@@ -812,7 +812,7 @@ ul#nav li a {
 }
 
 ul#nav li a:hover {
-	color: #30839F;
+	color: #f58442;
 }
 
 ul#nav li a:active {
@@ -820,7 +820,7 @@ ul#nav li a:active {
 }
 
 ul#nav li.current a {
-	color: #30839F;
+	color: #f58442;
 }
 
 ul#nav li.current a:after {
@@ -883,7 +883,7 @@ ul#nav li.current a:after {
 		top: 50%;
 		bottom: auto;
 		left: auto;
-		background: #30839F;
+		background: #f58442;
 		-moz-transition: all 0.3s ease-in-out;
 		-o-transition: all 0.3s ease-in-out;
 		-webkit-transition: all 0.3s ease-in-out;
@@ -956,7 +956,7 @@ ul#nav li.current a:after {
 
 	#nav-wrap ul#nav li.current>a {
 		background: none;
-		color: #30839F;
+		color: #f58442;
 	}
 
 	#nav-wrap ul#nav li.current>a:after {
@@ -1250,7 +1250,7 @@ ul#nav li.current a:after {
 }
 
 #hero .flex-control-paging li a.flex-active {
-	background: #30839F;
+	background: #f58442;
 	cursor: default;
 }
 
@@ -1281,7 +1281,7 @@ ul#nav li.current a:after {
 	height: 54px;
 	width: 200px;
 	border-radius: 3px;
-	background: #30839F;
+	background: #f58442;
 	box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2);
 	color: #FFFFFF;
 	-moz-transition: all 0.4s ease-on-out;
@@ -1292,7 +1292,7 @@ ul#nav li.current a:after {
 }
 
 #home #more a:hover {
-	background: #30839F;
+	background: #f58442;
 	color: #000000;
 }
 
@@ -1621,7 +1621,7 @@ h5 {
 }
 
 .popup-modal .link-box a:hover {
-	background: #30839F;
+	background: #f58442;
 	color: #000000;
 	border: none;
 }
@@ -1762,7 +1762,7 @@ h5 {
 
 #rules .service-list h3 {
 	font: 18px/36px "raleway-heavy", sans-serif;
-	color: #30839F;
+	color: #f58442;
 	padding: 0;
 	text-transform: none;
 	text-align: left;
@@ -1818,7 +1818,7 @@ h5 {
 
 #schedule h3 {
 	font: 18px/36px "raleway-heavy", sans-serif;
-	color: #30839F;
+	color: #f58442;
 	text-transform: none;
 	letter-spacing: 0;
 	padding: 0;
@@ -2010,7 +2010,7 @@ h5 {
 }
 
 #call-to-action h2 span {
-	color: #30839F;
+	color: #f58442;
 }
 
 #call-to-action h2 a,
@@ -2019,7 +2019,7 @@ h5 {
 }
 
 #call-to-action h2 span {
-	color: #30839F;
+	color: #f58442;
 }
 
 #call-to-action .action a {
@@ -2032,7 +2032,7 @@ h5 {
 	padding: 0 30px;
 	max-width: 400px;
 	width: 100%;
-	background: #30839F;
+	background: #f58442;
 	border-radius: 3px;
 	box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2);
 	margin: 24px auto 0;
@@ -2044,7 +2044,7 @@ h5 {
 }
 
 #call-to-action .action a:hover {
-	background: #30839F;
+	background: #f58442;
 	color: #000000;
 }
 
@@ -2090,7 +2090,7 @@ h5 {
 /* =================================================================== */
 
 #testimonials {
-	background: #30839F;
+	background: #f58442;
 	padding: 2em 0;
 	position: relative;
 	min-height: 198px;
@@ -2262,7 +2262,7 @@ h5 {
 
 #contact h3 {
 	font: 18px/36px "raleway-heavy", sans-serif;
-	color: #30839F;
+	color: #f58442;
 	padding: 0;
 	margin-bottom: 6px;
 }
@@ -2367,7 +2367,7 @@ h5 {
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	padding: 0 20px;
-	color: #30839F;
+	color: #f58442;
 }
 
 input[type="text"],
@@ -2401,11 +2401,11 @@ input[type="email"],
 }
 
 #message-warning {
-	color: #30839F;
+	color: #f58442;
 }
 
 #message-success {
-	color: #30839F;
+	color: #f58442;
 }
 
 #message-warning i,
@@ -2540,7 +2540,7 @@ footer a:visited {
 
 footer a:hover,
 footer a:focus {
-	color: #30839F;
+	color: #f58442;
 }
 
 footer hr {
@@ -2682,7 +2682,7 @@ footer .social-links li:first-child {
 	height: 54px;
 	width: 200px;
 	margin-left: -100px;
-	background: #30839F;
+	background: #f58442;
 	box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2);
 	color: #FFFFFF;
 	text-align: center;
@@ -2698,7 +2698,7 @@ footer .social-links li:first-child {
 }
 
 #go-top a:hover {
-	background: #30839F;
+	background: #f58442;
 	color: #000000;
 }
 
@@ -2752,7 +2752,7 @@ footer .social-links li:first-child {
 
 
 .link {
-	color: #30839F;
+	color: #f58442;
 	text-decoration: underline;
 }
 .QR{
